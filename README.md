@@ -94,6 +94,7 @@ Learn to create and manipulate JSON objects, access properties, and manage an ar
 🔍 6. Common Array Algorithms
 i) Finding Common Elements
 This implementation identifies shared elements between two arrays.
+
 ![image](https://github.com/user-attachments/assets/0c6e88eb-1d19-443a-85c2-b916146c462c)
 
 
