@@ -130,6 +130,7 @@ This implementation finds the highest number in an array.
 
 
 📌 Output Preview:
+
 ![image](https://github.com/user-attachments/assets/a0a71006-84a6-4153-ae22-4dffe6096fb7)
 
 
