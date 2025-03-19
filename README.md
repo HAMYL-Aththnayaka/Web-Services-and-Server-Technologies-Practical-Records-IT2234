@@ -138,6 +138,3 @@ This repository showcases essential JavaScript skills including function manipul
 
 📌 Stay tuned for more JavaScript implementations! 🚀
 
-
-# Web-Services-and-Server-Technologies-Practical-Records-IT2234
-Practical Records 2021/ICT/14
