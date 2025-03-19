@@ -1,4 +1,6 @@
 ##  🚀 JavaScript Functions – Practical Records 📖
+2021/ict/14
+2025.03.19
 
 This repository contains various JavaScript implementations for fundamental function operations, recursion, and callback handling. These practical implementations will help you understand and work with JavaScript functions effectively.
 
